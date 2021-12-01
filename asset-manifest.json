@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alfonsoduartesarabia.io/survey-form/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/alfonsoduartesarabia.io/survey-form/static/js/main.b47a2c00.chunk.js",
+    "main.js.map": "/alfonsoduartesarabia.io/survey-form/static/js/main.b47a2c00.chunk.js.map",
+    "runtime-main.js": "/alfonsoduartesarabia.io/survey-form/static/js/runtime-main.82832dcb.js",
+    "runtime-main.js.map": "/alfonsoduartesarabia.io/survey-form/static/js/runtime-main.82832dcb.js.map",
+    "static/js/2.d3317bc3.chunk.js": "/alfonsoduartesarabia.io/survey-form/static/js/2.d3317bc3.chunk.js",
+    "static/js/2.d3317bc3.chunk.js.map": "/alfonsoduartesarabia.io/survey-form/static/js/2.d3317bc3.chunk.js.map",
+    "static/js/3.f979dd45.chunk.js": "/alfonsoduartesarabia.io/survey-form/static/js/3.f979dd45.chunk.js",
+    "static/js/3.f979dd45.chunk.js.map": "/alfonsoduartesarabia.io/survey-form/static/js/3.f979dd45.chunk.js.map",
+    "index.html": "/alfonsoduartesarabia.io/survey-form/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/alfonsoduartesarabia.io/survey-form/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d3317bc3.chunk.js.LICENSE.txt": "/alfonsoduartesarabia.io/survey-form/static/js/2.d3317bc3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/alfonsoduartesarabia.io/survey-form/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82832dcb.js",
+    "static/js/2.d3317bc3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b47a2c00.chunk.js"
+  ]
+}
